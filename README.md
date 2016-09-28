@@ -4,8 +4,9 @@
 ## 因为字符串总是那么令人讨厌
 
 ### Medium post
-### 帖子说明
 [UIStoryboard: Safer with Enums, Protocol Extensions and Generics](https://medium.com/p/7aad3883b44d/)
+### 中文翻译地址
+[UIStoryboard：和枚举、协议扩展、泛型一起使用更安全](http://swift.gg/2016/09/26/uistoryboard-safer-with-enums-protocol-extensions-and-generics/)
 
 ### tl;dr
 Turn this:
